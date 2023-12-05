@@ -1,3 +1,3 @@
 # DiscordExperiments
-Activates Experiments in Discord
+Activates Experiments in Discord,
 BetterDiscord ONLY
